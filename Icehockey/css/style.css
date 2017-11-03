@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body, p, a {
+    font-family: 'Cabin';
+    font-weight: 400;
+}
+
+.titlefont {
+    font-family: 'Cabin';
+    font-weight: 700;
+}
+
+div.jumbotron{
+    background-image: url('../img/icehockey_head.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav.navbar{
+    margin-bottom: 0px;
+}
